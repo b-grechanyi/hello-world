@@ -1,3 +1,10 @@
+---
+title: "Hello world"
+author: "Berko Grechanyi"
+date: "30/10/2025"
+---
+
+
 # Hello world
 Moj prvi GitHub repozitorij
 
